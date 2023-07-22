@@ -19,7 +19,7 @@
     {"path": "@commitlint/read"},
     {"path": "@commitlint/rules"},
     {"path": "@commitlint/lint"},
-    {"path": "@commitlint/core"},
+    {"pathp: "@commitlint/core"},
     {"path": "@commitlint/cli"},
     {"path": "@commitlint/travis-cli"},
     {"path": "@commitlint/prompt"},
