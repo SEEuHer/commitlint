@@ -3,13 +3,10 @@
   "width": 80,
   "height": 20,
   "duration": 45.306863,
-  "command": null,
-  "title": null,
+  "command": jodikalin8@gmail.com
+  "title": jodikalin8@gmail.com
   "env": {
     "TERM": "ansi",
-    "SHELL": "/usr/local/bin/fish"
-  },
-  "stdout": [
     [
       0.043582,
       "\u001b[1m\u001b[30m⏎\u001b[0;10m                                                                              \r⏎ \r\u001b[2K\u001b[34m~/Projects/labs/commitlint\u001b[30m\u001b[0;10m \u001b[90mmaster*\u001b[30m\u001b[0;10m\t\u001b[36m\u001b[30m\u001b[0;10m\r\n\u001b[32m❯\u001b[30m\u001b[0;10m \u001b[K"
